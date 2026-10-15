@@ -1,6 +1,4 @@
 # Whitehats-Intro
-Whitehats intro task
-
 
 Name: Atharv Parag Landge
 Reg No: 25BYB0171
